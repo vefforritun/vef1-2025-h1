@@ -2,7 +2,7 @@
 
 Verkefnið felst í því að smíða vef eftir forskrift.
 
-Gefin verður hönnun í Figma skjali 15. september.
+Hönnun er í vinnslu og hægt er að skoða hana í [Figma](https://www.figma.com/design/4BvcCrMKEQ9MHQw1xd4W5J/vef1-2025-h%C3%B3pverkefni-1).
 
 ## Hópavinna
 
@@ -30,16 +30,28 @@ Verkefnið skal innihalda `package.json` og `package-lock.json` sem innihalda ö
 
 Þegar verkefnið er sótt verður `npm install` keyrt á undan öllum öðrum skipunum.
 
-Setja skal upp Sass og stylelint með `stylelint-config-sass-guidelines` og `stylelint-config-standard` fyrir verkefnið.
+Setja skal upp Sass og stylelint.
+
+## Efni
+
+Myndir:
+
+- <a href="https://unsplash.com/@alesnesetril?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ales Nesetril</a> á <a href="https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ## Mat
 
-Kemur seinna.
+- 10% - README eftir forskrift, tæki og tól uppsett, vefur keyrir á Netilfy.
+- 10% - Git og GitHub, a.m.k. fimm Pull Request.
+- 10% – Snyrtilegt, gilt (skv. stylelint) CSS/Sass, gilt og aðgengilegt HTML.
+- 20% – Almennt útlit (haus, fótur, meginmál) og skalanleiki.
+- 15% – Forsíða.
+- 10% – Efníssíða.
+- 15% – Lausnayfirlit.
+- 10% – Síða fyrir lausn.
 
 ## Sett fyrir
 
-- Forsendur kynntar í fyrirlestri 8. september 2025.
-- Verkefni fyrst sett fyrir í fyrirlestri mánudaginn 15. september 2025.
+Verkefni fyrst sett fyrir í fyrirlestri mánudaginn 15. september 2025.
 
 ## Skil
 
